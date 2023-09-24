@@ -45,6 +45,8 @@ body{
     font-size: 18px;
 }
 
+
+
 .search button{
     border: 0;
     outline: 0;
@@ -68,6 +70,7 @@ body{
 .weather .temp{
     padding-top: 20px;
     padding-bottom: 15px;
+    
 }
 
 .weather h1{
@@ -105,4 +108,8 @@ body{
 .humidity, .wind{
     font-size: 30px;
     margin-left: px;
+}
+
+.weather{
+    display: none;
 }
